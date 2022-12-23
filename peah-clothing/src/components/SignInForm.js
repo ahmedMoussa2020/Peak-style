@@ -6,7 +6,7 @@ import {
   signInAuthUserWithEmailAndPassword
 } from "../utils/firebase";
 import FormInput from "./FormInput";
-import styles from "../styles/SignInForm.styles.scss";
+import  "../styles/SignInForm.styles.scss";
 import Button from "./Button";
 
 const defaultFormFields = {
